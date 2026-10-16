@@ -40,7 +40,7 @@
   <a href="mailto:sadullasadi99@gmail.com"><img src="https://cdn.simpleicons.org/gmail/EA4335" width="42" height="42" alt="Gmail" /></a>&nbsp;&nbsp;&nbsp;
   <a href="https://github.com/sadi-logic"><img src="https://cdn.simpleicons.org/github/ffffff" width="42" height="42" alt="GitHub" /></a>&nbsp;&nbsp;&nbsp;
   <a href="https://instagram.com/ryuu_sadi"><img src="https://cdn.simpleicons.org/instagram/E4405F" width="42" height="42" alt="Instagram" /></a>&nbsp;&nbsp;&nbsp;
-  <a href="https://www.linkedin.com/in/YOUR-USERNAME"><img src="https://cdn.simpleicons.org/linkedin/0A66C2" width="42" height="42" alt="LinkedIn" /></a>&nbsp;&nbsp;&nbsp;
+  <a href="https://www.linkedin.com/in/sadullah-sadi"><img src="https://cdn.simpleicons.org/linkedin/0A66C2" width="42" height="42" alt="LinkedIn" /></a>&nbsp;&nbsp;&nbsp;
   <a href="https://www.facebook.com/sa.di.524866"><img src="https://cdn.simpleicons.org/facebook/1877F2" width="42" height="42" alt="Facebook" /></a>
 </p>
 
